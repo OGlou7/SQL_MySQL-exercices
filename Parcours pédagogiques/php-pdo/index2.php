@@ -43,7 +43,7 @@ if (isset($_POST["submit"])) {
  <html lang="fr" dir="ltr">
  <head>
      <meta charset="utf-8">
-     <link rel="stylesheet" href="pdo.css">
+     <link rel="stylesheet">
      <title>Ex1-PDO</title>
  </head>
  <body>
